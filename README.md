@@ -171,7 +171,7 @@ Manual QA remains a release requirement: Thai readability and screen readers, ke
 
 ## Current repository state
 
-At this planning stage there is **no released app, live endpoint, validated feed integration, installed PWA, or passing CI pipeline**. The issue backlog is being drafted for review before any GitHub issues are created.
+At this planning stage there is **no released app, live endpoint, validated feed integration, installed PWA, or passing CI pipeline**. A detailed issue backlog is under review before any GitHub issues are created.
 
 ## Reference documentation
 
